@@ -1,6 +1,6 @@
 # flutterchat
 
-A new Flutter application.
+A common Chat application using Firebase.
 
 ## Getting Started
 
